@@ -1,4 +1,36 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    
+}
+body {
+    background-color: #FCF3CF;
+}
+.navigation{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: #F7DC6F;
+    padding: 20px 24px;
+    color: #D35400;
+}
+
+.navigation .buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navigation .buttons .mx-2 {
+    text-decoration: none;
+    color: #D35400;
+    transition: 0.25s;
+}
+.navigation .buttons .mx-2:hover{
+    color: coral;
+}
+#lists .row{
+    width: 100%;
+    display: block;
+    color: #D35400;
 }

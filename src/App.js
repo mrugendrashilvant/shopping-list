@@ -1,4 +1,4 @@
-
+import './App.css';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
 import Input from './components/Input';
@@ -11,6 +11,7 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Header />
+        <hr />
 
 
         <Switch>
