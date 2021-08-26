@@ -4,8 +4,8 @@ export default function Input() {
     return (
         <div className="container">
             <div className="container">
-                <div className="row">
-                    <h3>Add to your List</h3>
+                <div className="row my-2">
+                    <h3 id="sub-heading" className="fw-light">Add to your List</h3>
                 </div>
                 <hr />
                 <div className="row my-2">
