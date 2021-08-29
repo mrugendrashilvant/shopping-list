@@ -15,7 +15,7 @@ export default function Landing() {
                 <h5 id="heading-description">Follow these 3 simple steps to create your First Shopping List <i className="bi bi-three-dots-vertical"></i> </h5>
 
                 <ol>
-                    <li className="fs-5 fw-light my-2">Create your first List by simply clicking on the <strong>"Create List"</strong>below</li>
+                    <li className="fs-5 fw-light my-2">Create your first List by simply clicking on the <strong>"Create List"</strong> below</li>
                     <li className="fs-5 fw-light my-2">Add <strong>Item name, Quantity and Price</strong> of the item you wish to buy</li>
                     <li className="fs-5 fw-light my-2">Navigate to <strong>"Show List"</strong> to see the added items in your shopping list</li>
                 </ol>
