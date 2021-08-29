@@ -60,3 +60,6 @@ body {
     justify-content: space-evenly;
     color: brown;
 }
+#heading, #sub-heading {
+    color: #D35400;
+}
